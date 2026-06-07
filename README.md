@@ -1,6 +1,6 @@
 # Hey there, I'm Hari 👋
 
-I'm a second-year CS student currently based in Taiwan, originally from India 🇮🇳🇹🇼  
+I'm a third-year CS student
 I spend most of my time building things around machine learning, computer vision, NLP, and backend systems — usually by turning random ideas into actual working projects.
 
 Right now, I’m especially interested in:
@@ -89,9 +89,7 @@ To become the kind of engineer who can:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- GitHub: https://github.com/Harry-1-0
 
 ---
 
